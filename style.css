@@ -25,13 +25,6 @@ h4{
     border-bottom: 1px solid black;
 }
 #project{
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    column-gap: 10px;
-    row-gap: 5px;
-    justify-content: space-evenly;
-    
     border-bottom: 1px solid black;
 }
 #experience{
@@ -51,8 +44,4 @@ h4{
 }
 .same{
     margin-left: 6px;
-}
-.projectSection
-{
-    width: 700px;
 }
